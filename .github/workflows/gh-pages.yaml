@@ -26,7 +26,7 @@ jobs:
           node-version: '14'
 
       - name: setup npm
-        run: npm install
+        run: npm install -g
 
       - name: Build
         run: npm run build
