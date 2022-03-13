@@ -12,7 +12,7 @@
     "watch:hugo": "hugo server",
     "build": "npx tailwindcss -i ./themes/tella/assets/css/main.css -o ./themes/tella/assets/css/style.css && hugo --minify"
   },
-  "devDependencies": {
+  "dependencies": {
     "@tailwindcss/typography": "^0.5.2",
     "autoprefixer": "^10.4.2",
     "concurrently": "^7.0.0",
