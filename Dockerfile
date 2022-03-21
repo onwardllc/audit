@@ -8,7 +8,8 @@ RUN apt update \
   && curl -sL https://deb.nodesource.com/setup_14.x | bash - \
   && apt update \
   && apt install -y nodejs \
-  && npm install
+  && npm install -g \
+  && npm run build
 
 EXPOSE 1313
 CMD ["server"]
