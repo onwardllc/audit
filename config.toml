@@ -21,27 +21,27 @@ enableRobotsTXT = true
   mainSections = ['blog']
 
   [params.logo]
-    main = "img/logo/logo.svg"
-    alt = "Tella Logo"
+    main = "img/logo/logo_vertical.png"
+    alt = "Onward Auditing Logo"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
     size = "h-14"
 
   [params.site]
-    name = "Tella"
+    name = "Onward Auditing"
 
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
     fa5 = true
 
   [params.homepage_meta_tags]
-    meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_og_title = "Tella"
+    meta_description = "Onward Auditing"
+    meta_og_title = "Onward Auditing"
     meta_og_type = "website"
-    meta_og_url = "https://tella.pages.dev"
+    meta_og_url = "https://onwardaudting.com"
     meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
-    meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
+    meta_og_description = "Onward Auditing"
     meta_twitter_card = "summary_large_image"
     meta_twitter_site = "@username"
     meta_twitter_creator = "@username"
@@ -79,7 +79,7 @@ enableRobotsTXT = true
       weight = 1
 
   [[menu.footer]]
-    name = "Github"
-    url = "https://github.com/opera7133/tella"
-    pre = "<i class='icon-github text-2xl'></i>"
+    name = "LinkedIn"
+    url = "https://linkedin.com/"
+    pre = "<i class='icon-linkedin text-2xl'></i>"
       weight = 2
