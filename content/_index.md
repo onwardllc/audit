@@ -1,3 +1,10 @@
 +++
 author = "Onward Auditing"
 +++
+
+Onward has been in offshore compliance since 2010 so the progression to Authorized Service Provider for audits is natural one.
+
+We differ from other audit providers as oil and gas is our specialty. Our team of qualified and competent auditors are oil and gas professionals first. We understand that a management system for an offshore operator is not the same as someone in food processing, or steel manufacturing.
+
+Audits can be viewed as a dreaded undertaking, viewed as costly and cumbersome which is why its crucial to choose an audit provider that truly understands your business and provides value. We should all be on a journey of continuous improvement, and professional audits identifying root causes can assist
+greatly with that journey.
