@@ -73,7 +73,7 @@ enableRobotsTXT = true
 
   # Footer Menu
   [[menu.footer]]
-    name = "Crew Onward"
+    name = "Onward Inc"
     url = "https://crewonward.com"
     weight = 1
 
