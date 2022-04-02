@@ -6,3 +6,26 @@ h2,
 h3 {
   color: #79a2d5
 }
+
+.text-sky-400 {
+  --tw-text-opacity: 1;
+  color: rgb(56 189 248 / var(--tw-text-opacity));
+}
+
+.swiper-slide .s-fade-txt-top {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  animation: FadeAni 0.5s ease 1s 1 normal both;
+}
+
+.swiper-slide .s-fade-txt-bottom {
+  position: absolute;
+  bottom: 0%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  animation: FadeAni 0.5s ease 1s 1 normal both;
+}

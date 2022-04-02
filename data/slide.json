@@ -1,10 +1,12 @@
 [
   {
-    "title": "Onward Audting",
-    "image": "img/slide/slide01.jpg"
+    "title": "Onward Auditing",
+    "image": "img/slide/slide01.jpg",
+    "class": "s-fade-txt-top"
   },
   {
     "title": "All your needs handled...",
-    "image": "img/slide/slide02.jpg"
+    "image": "img/slide/slide02.jpg",
+    "class": "s-fade-txt-bottom"
   }
 ]
