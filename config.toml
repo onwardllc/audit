@@ -32,7 +32,6 @@ enableRobotsTXT = true
     name = "Onward Auditing"
 
   [params.icon]
-    #If you want to use FontAwesome, set this parameter to true.
     fa5 = true
 
   [params.homepage_meta_tags]
@@ -42,9 +41,9 @@ enableRobotsTXT = true
     meta_og_url = "https://onwardaudting.com"
     meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
     meta_og_description = "Onward Auditing"
-    meta_twitter_card = "summary_large_image"
-    meta_twitter_site = "@username"
-    meta_twitter_creator = "@username"
+    #meta_twitter_card = "summary_large_image"
+    #meta_twitter_site = "@username"
+    #meta_twitter_creator = "@username"
 
 [menu]
 
@@ -72,20 +71,20 @@ enableRobotsTXT = true
     url = "/contact/"
     weight = 4
 
-  #[[menu.main]]
-  #  identifier = "blog"
-  #  name = "Blog"
-  #  url = "/blog/"
-  #  weight = 5
-
   # Footer Menu
   [[menu.footer]]
-    name = "Home"
-    url = "/"
-      weight = 1
+    name = "Crew Onward"
+    url = "https://crewonward.com"
+    weight = 1
 
   [[menu.footer]]
     name = "LinkedIn"
-    url = "https://linkedin.com/"
-    pre = "<i class='icon-linkedin text-2xl'></i>"
-      weight = 2
+    url = "https://www.linkedin.com/company/onwardllc"
+    pre = "<i class='fab fa-linkedin fa-2xl'></i>"
+    weight = 2
+
+  [[menu.footer]]
+    name = "Facebook"
+    url = "https://www.facebook.com/onwardconsultingincorporated/"
+    pre = "<i class='fab fa-facebook fa-2xl'></i>"
+    weight = 3

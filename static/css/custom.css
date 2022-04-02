@@ -1,4 +1,8 @@
-/* 
+/*
  This CSS file is used to override the existing styles of the theme.
  You can change the article headings, fonts, colors, etc.
 */
+h2,
+h3 {
+  color: #79a2d5
+}
