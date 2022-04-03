@@ -30,6 +30,14 @@ h3.text-white {
   animation: FadeAni 0.5s ease 1s 1 normal both;
 }
 
+.swiper-slide .s-fade-txt-left-middle {
+  position: absolute;
+  top: 60%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  animation: FadeAni 0.5s ease 1s 1 normal both;
+}
 .swiper-slide .s-fade-txt-bottom {
   position: absolute;
   bottom: 0%;
