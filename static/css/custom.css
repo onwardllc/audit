@@ -8,6 +8,11 @@ h3 {
   color: #79a2d5 !important;
 }
 
+h1.text-white,
+h2.text-white,
+h3.text-white {
+  color: #ffffff !important;
+}
 .text-sky-400 {
   --tw-text-opacity: 1;
   color: rgb(56 189 248 / var(--tw-text-opacity));
