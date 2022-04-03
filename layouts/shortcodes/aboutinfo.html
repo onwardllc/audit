@@ -1,0 +1,10 @@
+{{ range .Site.Data.about }}
+
+{{if .name }}<p>{{ .name }}</p>{{ end }}
+
+<ul>
+  {{ range .notes }}
+  <li>{{ .note }}</li>
+  {{ end }}
+</ul>
+{{ end }}

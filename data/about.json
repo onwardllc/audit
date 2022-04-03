@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Nina",
+    "notes": [
+      {
+        "note": "Masters in Management with Business Law"
+      },
+      {
+        "note": "ISO 14001 / 45001 Certified Internal Auditor"
+      },
+      {
+        "note": "ISO 45001:2018 Certified Lead Auditor Training Certified"
+      },
+      {
+        "note": "SEMS Fundamentals and Technical Lead Auditor Certified IACET"
+      },
+      {
+        "note": "Over a decade in offshore oil and gas experience"
+      }
+    ]
+  },
+  {
+    "name": "Nathan",
+    "notes": [
+      {
+        "note": "M.S. in Occupational Safety and Health – Environmental Management Concentration"
+      },
+      {
+        "note": "CSP / ASP credentialled through the Board of Certified Safety Professionals (BCSP.org)"
+      },
+      {
+        "note": "ASHM credentialled through the Institute of Hazardous Materials Management (IHMM.org)"
+      },
+      {
+        "note": "ISO 14001 / 45001 Certified Internal Auditor"
+      },
+      {
+        "note": "ISO 45001:2018 Certified Lead Auditor Training Certified"
+      },
+      {
+        "note": "SEMS Fundamentals and Technical Lead Auditor Certified IACET"
+      }
+    ]
+  }
+]
