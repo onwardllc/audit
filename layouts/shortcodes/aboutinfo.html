@@ -1,6 +1,12 @@
 {{ range .Site.Data.about }}
 
-{{if .name }}<p>{{ .name }}</p>{{ end }}
+{{if .name }}<p>{{ .name }}
+  {{if .linkedin }}
+  <a href="{{ .linkedin }}">
+    <i class='fab fa-linkedin fa-2xl'></i>
+  </a>
+  {{ end }}
+</p>{{ end}}
 
 <ul>
   {{ range .notes }}

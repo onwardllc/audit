@@ -1,6 +1,8 @@
 [
   {
-    "name": "Nina",
+    "name": "Nina Spencer",
+    "linkedin": "https://www.linkedin.com/in/nina-spencer-42673944/",
+    "image": "/img/nina.jpeg",
     "notes": [
       {
         "note": "Masters in Management with Business Law"
@@ -20,7 +22,9 @@
     ]
   },
   {
-    "name": "Nathan",
+    "name": "Nathan Lord",
+    "linkedin": "https://www.linkedin.com/in/nathan-lord-csp-12b28195/",
+    "image": "/img/nathan.jpeg",
     "notes": [
       {
         "note": "M.S. in Occupational Safety and Health – Environmental Management Concentration"
