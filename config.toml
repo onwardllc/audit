@@ -28,6 +28,9 @@ enableRobotsTXT = true
     # https://tailwindcss.com/
     size = "h-14"
 
+  [params.recaptcha]
+    siteKey = "6LeAO0YfAAAAAC30dY1oPQcGN3VPQfnvRetThEsd"
+
   [params.site]
     name = "Onward Auditing"
     address = "825 Town & Country Ln, Houston, TX 77024"
