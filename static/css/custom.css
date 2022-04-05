@@ -46,3 +46,16 @@ h3.text-white {
   opacity: 0;
   animation: FadeAni 0.5s ease 1s 1 normal both;
 }
+
+/* Move reCAPTCHA v3 badge to the left */
+
+.grecaptcha-badge {
+  width: 70px !important;
+  overflow: hidden !important;
+  right: 0px !important;
+  top: 8em;
+}
+
+.grecaptcha-badge:hover {
+  width: 256px !important;
+}

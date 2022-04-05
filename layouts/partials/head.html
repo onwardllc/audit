@@ -6,17 +6,6 @@
 {{ if .Site.Params.icon.fa5 }}
 <link href='{{ "/css/fa5.min.css" | relURL }}' rel="stylesheet" type="text/css">
 {{ end }}
-{{ if .Site.Params.recaptcha }}
-<script src="https://www.google.com/recaptcha/api.js?render={{ .Site.Params.recaptcha.siteKey }}"></script>
-<script>
-  grecaptcha.ready(function () {
-    grecaptcha.execute("{{ .Site.Params.recaptcha.siteKey }}", { action: 'homepage' })
-      .then(function (token) {
-        document.getElementById('captchaResponse').value = token;
-      });
-  });
-</script>
-{{ end }}
 {{ $styles := resources.Get "css/style.css" | postCSS }}
 {{ if .Site.IsServer }}
 <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
