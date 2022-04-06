@@ -46,6 +46,14 @@ h3.text-white {
   opacity: 0;
   animation: FadeAni 0.5s ease 1s 1 normal both;
 }
+.swiper-slide .s-fade-txt-bottom-left {
+  position: absolute;
+  bottom: 0%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  animation: FadeAni 0.5s ease 1s 1 normal both;
+}
 
 /* Move reCAPTCHA v3 badge to the left */
 
