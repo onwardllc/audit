@@ -12,4 +12,3 @@ RUN apt update \
   && npm run build
 
 EXPOSE 1313
-CMD ["server"]
