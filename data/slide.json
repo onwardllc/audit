@@ -2,16 +2,22 @@
   {
     "title": "Onward Auditing",
     "image": "img/slide/slide01.jpg",
-    "class": "s-fade-txt-left-middle"
+    "class": "s-fade-txt-left-middle",
+    "textcolor": "white",
+    "textsize": "4xl"
   },
   {
     "title": "All your needs handled...",
     "image": "img/slide/slide02.jpg",
-    "class": "s-fade-txt-bottom"
+    "class": "s-fade-txt-top-left",
+    "textcolor": "black",
+    "textsize": "3xl"
   },
   {
     "title": "Providing Verification through Competence",
     "image": "img/slide/slide03.jpg",
-    "class": "s-fade-txt-bottom-left"
+    "class": "s-fade-txt-bottom-left",
+    "textcolor": "white",
+    "textsize": "2xl"
   }
 ]

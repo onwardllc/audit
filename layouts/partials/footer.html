@@ -65,7 +65,20 @@
       <div class="text-lg lg:flex-grow">
       </div>
       <div class="flex flex-row items-center text-lg">
-        <a href="{{ .Site.Params.site.addressUrl }}">{{ .Site.Params.site.address }}</a>
+        <a href="{{ .Site.Params.site.addressUrl }}">
+          {{ .Site.Params.site.addressStreet }},
+          {{ .Site.Params.site.addressStreet2 }},
+          {{ .Site.Params.site.addressCity }},
+          {{ .Site.Params.site.addressState }}
+          {{ .Site.Params.site.addressZip }}
+        </a>
+        </div>
+        </div>
+        <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
+          <div class="text-lg lg:flex-grow">
+          </div>
+          <div class="flex flex-row items-center text-lg">
+            <a href="tel:{{ .Site.Params.site.phone }}">{{ .Site.Params.site.phone }}</a>
       </div>
     </div>
   </div>

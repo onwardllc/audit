@@ -33,8 +33,13 @@ enableRobotsTXT = true
 
   [params.site]
     name = "Onward Auditing"
-    address = "825 Town & Country Ln, Houston, TX 77024"
-    addressUrl = "https://goo.gl/maps/k5WhZKW5BEZTwU64A"
+    addressStreet = "825 Town & Country Ln"
+    addressStreet2 = "Suite 1200"
+    addressCity = "Houston"
+    addressState = "TX"
+    addressZip = "77024"
+    addressUrl = "https://goo.gl/maps/skr32DXz61MS7soT7"
+    phone = "281-535-CREW (2739)"
 
   [params.icon]
     fa5 = true
