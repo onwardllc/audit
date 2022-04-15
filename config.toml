@@ -42,7 +42,8 @@ enableRobotsTXT = true
     addressState = "TX"
     addressZip = "77024"
     addressUrl = "https://goo.gl/maps/skr32DXz61MS7soT7"
-    phone = "281-535-CREW (2739)"
+    phone = "281-535-2739"
+    phoneLabel = "281-535-CREW (2739)"
 
   [params.icon]
     fa5 = true

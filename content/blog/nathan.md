@@ -13,7 +13,7 @@ categories = [
     "interviews",
 ]
 series = ["Auditor Interviews"]
-aliases = ["nathan-lord-auditor"]
+aliases = ["nathan-lead-auditor"]
 +++
 
 Nathan Lord has been working with us here at Onward since 2013. He started as a SEMS Representative and then moved into the role of SEMS Lead in 2017. Nate has now been our Operations Manager since 2020. He will be one of our Lead Audits for our external Audits here at Onward Auditing and we wanted to ask him questions that highlight both Onward, and what our new certification means.
