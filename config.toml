@@ -18,7 +18,10 @@ enableRobotsTXT = true
 
 [params]
 
-  mainSections = ['services']
+  mainSections = ['blog']
+
+  [params.blog]
+    share = false
 
   [params.logo]
     main = "img/logo/logo_horizontal.png"
@@ -82,10 +85,16 @@ enableRobotsTXT = true
     weight = 4
 
   [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 5
+
+  [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 5
+    weight = 6
 
   # Footer Menu
   [[menu.footer]]
