@@ -52,7 +52,7 @@ enableRobotsTXT = true
     meta_description = "Onward Auditing"
     meta_og_title = "Onward Auditing"
     meta_og_type = "website"
-    meta_og_url = "https://onwardauditing.onrender.com"
+    meta_og_url = "https://onwardauditing.pages.dev"
     meta_og_image = "/img/screenshot.png"
     meta_og_description = "Onward Auditing"
     #meta_twitter_card = "summary_large_image"
@@ -99,18 +99,13 @@ enableRobotsTXT = true
 
   # Footer Menu
   [[menu.footer]]
-    name = "Onward Inc"
-    url = "https://crewonward.com"
-    weight = 1
-
-  [[menu.footer]]
     name = "LinkedIn"
     url = "https://www.linkedin.com/company/onwardllc"
     pre = "<i class='fab fa-linkedin fa-2xl'></i>"
-    weight = 2
+    weight = 1
 
   [[menu.footer]]
     name = "Facebook"
     url = "https://www.facebook.com/onwardconsultingincorporated/"
     pre = "<i class='fab fa-facebook fa-2xl'></i>"
-    weight = 3
+    weight = 2
