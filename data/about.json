@@ -5,6 +5,9 @@
     "image": "/img/nina.jpeg",
     "notes": [
       {
+        "note": "Lead Auditor Qualified"
+      },
+      {
         "note": "Masters in Management with Business Law"
       },
       {
@@ -12,9 +15,6 @@
       },
       {
         "note": "ISO 45001:2018 Certified Lead Auditor Training Certified"
-      },
-      {
-        "note": "SEMS Fundamentals and Technical Lead Auditor Certified IACET"
       },
       {
         "note": "Over a decade in offshore oil and gas experience"
@@ -26,6 +26,9 @@
     "linkedin": "https://www.linkedin.com/in/nathan-lord-csp-12b28195/",
     "image": "/img/nathan.jpeg",
     "notes": [
+      {
+        "note": "Lead Auditor Qualified"
+      },
       {
         "note": "M.S. in Occupational Safety and Health – Environmental Management Concentration"
       },
@@ -40,9 +43,28 @@
       },
       {
         "note": "ISO 45001:2018 Certified Lead Auditor Training Certified"
+      }
+    ]
+  },
+  {
+    "name": "Philip Emmanuel",
+    "linkedin": "https://www.linkedin.com/in/philip-emanuel-csho-45a1a067/",
+    "image": "/img/philip.jpeg",
+    "notes": [
+      {
+        "note": "Lead Auditor Qualified"
       },
       {
-        "note": "SEMS Fundamentals and Technical Lead Auditor Certified IACET"
+        "note": "ISO 14001:2015 Certified Environmental Management Systems (EMS) Lead Auditor"
+      },
+      {
+        "note": "Certified Safety and Health Official – CSHO"
+      },
+      {
+        "note": "Mechanical Contracting License"
+      },
+      {
+        "note": "Oil and Gas Safety and Health Professional"
       }
     ]
   }

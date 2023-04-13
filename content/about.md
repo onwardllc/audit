@@ -11,6 +11,10 @@ Onward was formed in 2010 to answer a calling in the Gulf Of Mexico for leadersh
 
 Onward's [proffesional Audits](/services) not only find the root causes to problems in your firm, they also allow you take embark on a journey of continual improvement. We believe in the value of verified competence and the importance of finding each and every one of the causes to problems that may be holding your business back from reaching its true potential!
 
-## Meet Our Lead Auditors
+## Service Areas
+
+Gulf of Mexico
+
+## Meet Our Auditors
 
 {{< aboutinfo >}}
