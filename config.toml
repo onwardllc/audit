@@ -69,7 +69,7 @@ enableRobotsTXT = true
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "About Us"
     url = "/about/"
     weight = 2
 
@@ -81,7 +81,7 @@ enableRobotsTXT = true
 
   [[menu.main]]
     identifier = "policies"
-    name = "Policies"
+    name = "Policies & Processes"
     url = "/policies/"
     weight = 4
 
