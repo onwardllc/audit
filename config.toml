@@ -1,4 +1,4 @@
-baseURL = "https://onwardauditing.onrender.com"
+baseURL = "https://onwardauditing.pages.dev/"
 title = "Onward Auditing"
 author = "onward"
 languageCode = "en"
@@ -92,10 +92,16 @@ enableRobotsTXT = true
     weight = 5
 
   [[menu.main]]
+    identifier = "faq"
+    name = "FAQ"
+    url = "/faq/"
+    weight = 6
+
+  [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 6
+    weight = 7
 
   # Footer Menu
   [[menu.footer]]

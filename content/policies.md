@@ -4,14 +4,13 @@ title: "Policies & Processes"
 
 ## Policies
 
-- Confidentiality (link coming soon)
-- Impartiality (link coming soon)
-- Use of COS Certificate and Logo (link coming soon)
+- {{< link-in-new-tab "Impartiality Policy-Principles" "/docs/P03.2-Impartiality%20Policy.Public%20Information-2023.05.01.pdf" >}}
+- {{< link-in-new-tab "Use of COS Certificate and Logo" "/docs/F-10.7-UseOfMarks.Public%20Information-2023.05.01.pdf" >}}
 
 ## Processes
 
-- Auditing Process leading to SEMS Certificate (link coming soon)
-- Appeals & Complaints (link coming soon)
+- {{< link-in-new-tab "Auditing Process leading to SEMS Certificate" "/docs/F-09.1-Auditing%20Process.Public%20Information-2023.05.01.pdf" >}}
+- {{< link-in-new-tab "Appeals & Complaints" "/docs/F07.5-Appeals%20and%20Complaints.Public%20Information-2023.05.01.pdf" >}}
 
 ## Certificate Status
   
