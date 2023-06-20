@@ -86,21 +86,21 @@ enableRobotsTXT = true
     weight = 4
 
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog/"
-    weight = 5
-
-  [[menu.main]]
     identifier = "faq"
     name = "FAQ"
     url = "/faq/"
-    weight = 6
+    weight = 5
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
+    weight = 6
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
     weight = 7
 
   # Footer Menu
