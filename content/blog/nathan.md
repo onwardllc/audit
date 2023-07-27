@@ -3,7 +3,7 @@ author = "Onward Auditing"
 title = "An Interview with Nathan Lord - Lead Auditor"
 date = "2022-04-14"
 description = ""
-image = "/img/nathan.jpeg"
+image = "/img/audit.jpg"
 imageShowInPost = false
 imageClass = "my-2"
 tags = [
@@ -16,7 +16,7 @@ series = ["Auditor Interviews"]
 aliases = ["nathan-lead-auditor"]
 +++
 
-{{< blog-post-image-and-blurb "/img/nathan.jpeg" "Nathan Lord has been working with us here at Onward since 2013. He started as a SEMS Representative and then moved into the role of SEMS Lead in 2017. Nate has now been our Operations Manager since 2020. He will be one of our Lead Audits for our external Audits here at Onward Auditing and we wanted to ask him questions that highlight both Onward, and what our new certification means." >}}
+{{< blog-post-image-and-blurb "/img/audit.jpg" "Nathan Lord has been working with us here at Onward since 2013. He started as a SEMS Representative and then moved into the role of SEMS Lead in 2017. Nate has now been our Operations Manager since 2020. He will be one of our Lead Audits for our external Audits here at Onward Auditing and we wanted to ask him questions that highlight both Onward, and what our new certification means." >}}
 
 1. **What do you think makes Onward unique?**
 

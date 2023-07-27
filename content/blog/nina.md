@@ -3,7 +3,7 @@ author = "Onward Auditing"
 title = "Nina Spencer- Lead Auditor"
 date = "2022-04-14"
 description = ""
-image = "/img/nina.jpeg"
+image = "/img/growth.jpg"
 imageShowInPost = false
 imageClass = "my-4"
 tags = [
@@ -16,7 +16,7 @@ series = ["Auditor Interviews"]
 aliases = ["nina-lead-auditor"]
 +++
 
-{{< blog-post-image-and-blurb "/img/nina.jpeg" "Nina Spencer has been working with us at Onward since 2013. She has experience working as a SEMS Manager, Operations Manager, Vice President, and now is the President of the company. We asked Nina some questions to get to know her better and to understand Onward from her point of view." >}}
+{{< blog-post-image-and-blurb "/img/growth.jpg" "Nina Spencer has been working with us at Onward since 2013. She has experience working as a SEMS Manager, Operations Manager, Vice President, and now is the President of the company. We asked Nina some questions to get to know her better and to understand Onward from her point of view." >}}
 
 1. **What do you think makes Onward unique?**
 
