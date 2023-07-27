@@ -11,7 +11,7 @@ Compliance is crucial to success.  However, audits which provide you with findin
 
 Contact us to learn how an audit can lead you to improving your safety and environmental management system.
 
-## Service Areas
+{{< heading-with-anchor "Service Areas" >}}
 
 HQ – Houston, TX
 
@@ -19,6 +19,6 @@ Operates – Gulf of Mexico, W. Texas, Trinidad, Curacao, Offshore Mexico – Ba
 
 ![Onward Auditing Service Areas](/img/map.png)
 
-## Meet Our Auditors
+{{< heading-with-anchor "Meet Our Auditors" >}}
 
 {{< aboutinfo >}}
