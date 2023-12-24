@@ -31,6 +31,9 @@ enableRobotsTXT = true
     # https://tailwindcss.com/
     size = "h-14"
 
+  [params.contact]
+    action = "https://formcarry.com/s/w4Nun1BRBZ"
+
   [params.recaptcha]
     siteKey = "6LeAO0YfAAAAAC30dY1oPQcGN3VPQfnvRetThEsd"
 

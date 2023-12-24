@@ -4,26 +4,26 @@ on:
   push:
     branches:
       - main
-  pull_request:
 
 jobs:
   deploy:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4 # (latest, tagged)
         with:
           submodules: true
           fetch-depth: 0
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v2  # (latest, tagged)
         with:
           hugo-version: 'latest'
+          extended: true
 
       - name: setup node
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4 # (latest, tagged)
         with:
-          node-version: '14'
+          node-version: '20'
 
       - name: setup npm
         run: npm install -g
@@ -32,7 +32,7 @@ jobs:
         run: npm run build
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v3 # (latest, tagged)
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
