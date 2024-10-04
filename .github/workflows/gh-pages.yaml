@@ -28,7 +28,7 @@ jobs:
       - run: npm ci
       - run: hugo --minify
 
-      - name: Deploy
+      - name: build gh-pages branch
         uses: peaceiris/actions-gh-pages@ababa3d330af34b07419f6bc9f4a6b817ed7930b # v4 # (latest, tagged)
         if: github.ref == 'refs/heads/main'
         with:
