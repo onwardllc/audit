@@ -25,11 +25,8 @@ jobs:
         with:
           node-version: '20'
 
-      - name: setup npm
-        run: npm install
-
-      - name: Build
-        run: npm run build
+      - run: npm ci
+      - run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@ababa3d330af34b07419f6bc9f4a6b817ed7930b # v4 # (latest, tagged)
