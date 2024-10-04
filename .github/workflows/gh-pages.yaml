@@ -15,7 +15,7 @@ jobs:
           fetch-depth: 0
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@3b443076f02aa9537a31bdcaa0c971cdd41eb022 # v3  # (latest, tagged)
+        uses: peaceiris/actions-hugo@v3 # v3  # (latest, tagged)
         with:
           hugo-version: 'latest'
           extended: true
@@ -29,7 +29,7 @@ jobs:
       - run: hugo --minify
 
       - name: build gh-pages branch
-        uses: peaceiris/actions-gh-pages@ababa3d330af34b07419f6bc9f4a6b817ed7930b # v4 # (latest, tagged)
+        uses: peaceiris/actions-gh-pages@v4 # v4 # (latest, tagged)
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
