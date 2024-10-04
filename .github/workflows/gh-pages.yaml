@@ -9,19 +9,19 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4 # (latest, tagged)
+      - uses: actions/checkout@6b42224f41ee5dfe5395e27c8b2746f1f9955030 # v4 # (latest, tagged)
         with:
           submodules: true
           fetch-depth: 0
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@dc99976453b04b1029527154fc04fef80a4a49cf # v2  # (latest, tagged)
+        uses: peaceiris/actions-hugo@3b443076f02aa9537a31bdcaa0c971cdd41eb022 # v3  # (latest, tagged)
         with:
           hugo-version: 'latest'
           extended: true
 
       - name: setup node
-        uses: actions/setup-node@0a44ba7841725637a19e28fa30b79a866c81b0a6 # v4 # (latest, tagged)
+        uses: actions/setup-node@aca7b64a59c0063db8564e0ffdadd3887f1cbae5 # v4 # (latest, tagged)
         with:
           node-version: '20'
 
@@ -32,7 +32,7 @@ jobs:
         run: npm run build
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@4a2e02b36f31d8974a0d09d3bb9f3172aa2d0d0d # v3 # (latest, tagged)
+        uses: peaceiris/actions-gh-pages@ababa3d330af34b07419f6bc9f4a6b817ed7930b # v4 # (latest, tagged)
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
