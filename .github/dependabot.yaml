@@ -3,5 +3,5 @@ udpates:
   - package-ecosystem: 'github-actions'
     directory: '/'
     schedule:
-      interval: 'weekly
+      interval: 'weekly'
       timezone: 'America/Chicago'
