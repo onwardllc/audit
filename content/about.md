@@ -18,7 +18,3 @@ HQ – Houston, TX
 Operates – Gulf of Mexico, W. Texas, Trinidad, Curacao, Offshore Mexico – Bay of Campeche
 
 ![Onward Auditing Service Areas](/img/map.png)
-
-{{< heading-with-anchor "Meet Our Auditors" >}}
-
-{{< aboutinfo >}}
