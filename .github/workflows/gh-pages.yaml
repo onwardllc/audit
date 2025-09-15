@@ -27,7 +27,7 @@ jobs:
       - name: setup node
         uses: actions/setup-node@aca7b64a59c0063db8564e0ffdadd3887f1cbae5 # v4 # (latest, tagged)
         with:
-          node-version: '24'
+          node-version: '20'
 
       - run: npm ci
       - run: hugo --minify
