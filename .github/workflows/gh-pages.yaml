@@ -12,39 +12,29 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@6b42224f41ee5dfe5395e27c8b2746f1f9955030 # v4 # (latest, tagged)
+      - uses: actions/checkout@v5
         with:
           submodules: true
           fetch-depth: 0
           persist-credentials: false
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3 # v3  # (latest, tagged)
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
           extended: true
 
       - name: setup node
-        uses: actions/setup-node@aca7b64a59c0063db8564e0ffdadd3887f1cbae5 # v4 # (latest, tagged)
+        uses: actions/setup-node@v5
         with:
           node-version: '20'
 
       - run: npm ci
       - run: hugo --minify
 
-      - name: update production branch 
-        uses: actions/github-script@v8
-        env:
-          SHA: ${{ github.sha }}
-          AUTHOR: ${{ github.actor }}
-          EMAIL: ${{ github.actor }}@users.noreply.github.com
+      - name: build gh-pages branch
+        uses: peaceiris/actions-gh-pages@v4 # v4 # (latest, tagged)
+        if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            git checkout target-branch
-            git checkout source-branch -- public
-            mv public/* .
-            rm -rf public
-            git add .
-            git commit --author="${AUTHOR} <${EMAIL}>" -m "Deploy: ${SHA}"
-            git push origin production
+          publish_dir: ./public
