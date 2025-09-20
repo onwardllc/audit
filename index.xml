@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Onward Auditing</title><link>https://onwardauditing.pages.dev/</link><description>Recent content on Onward Auditing</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 14 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://onwardauditing.pages.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>An Interview with Nathan Lord - Lead Auditor</title><link>https://onwardauditing.pages.dev/blog/nathan/</link><pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate><guid>https://onwardauditing.pages.dev/blog/nathan/</guid><description>&lt;div class="grid grid-cols-1 md:grid-cols-2 gap-2"&gt;
+ &lt;div&gt;&lt;img src="https://onwardauditing.pages.dev/img/audit.jpg" /&gt;&lt;/div&gt;
+ &lt;div&gt;
+ &lt;br /&gt;
+ Nathan Lord has been working with us here at Onward since 2013. He started as a SEMS Representative and then moved into the role of SEMS Lead in 2017. Nate has now been our Operations Manager since 2020. He will be one of our Lead Audits for our external Audits here at Onward Auditing and we wanted to ask him questions that highlight both Onward, and what our new certification means.
+ &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;What do you think makes Onward unique?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Onward’s practices are rooted in relationships. To provide personnel to fill a vacancy is only part of the solution. We want to provide personnel who are not only competent and qualified but can integrate within rig family building trust and respect.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Contact</title><link>https://onwardauditing.pages.dev/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://onwardauditing.pages.dev/contact/</guid><description>&lt;p&gt;Contact Info:&lt;/p&gt;
+&lt;p&gt;
+ &lt;a href="https://goo.gl/maps/skr32DXz61MS7soT7"&gt;
+ 825 Town &amp;amp; Country Ln&lt;br /&gt;
+ Suite 1200&lt;br /&gt;
+ Houston, TX 77024
+ &lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+ &lt;a href="tel:281-535-2739"&gt;281-535-CREW (2739)&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;To contact us, please fill out the form below.&lt;/p&gt;
+&lt;form name="contact" action="https://formcarry.com/s/w4Nun1BRBZ" method="POST" enctype="multipart/form-data" accept-charset="UTF-8"&gt;
+ &lt;input type="hidden" id="captchaResponse" name="g-recaptcha-response"&gt;
+ &lt;input type="hidden" name="_gotcha" style="display:none !important"&gt;
+ &lt;div class="input"&gt;
+ &lt;input type="text" placeholder="Name" name="name"
+ class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required&gt;
+ &lt;/div&gt;
+ &lt;div class="input"&gt;
+ &lt;input type="text" placeholder="Email" name="email"
+ class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required&gt;
+ &lt;/div&gt;
+ &lt;div class="input"&gt;
+ &lt;input type="text" placeholder="Title" name="title"
+ class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required&gt;
+ &lt;/div&gt;
+ &lt;div class="input"&gt;
+ &lt;textarea rows="5" cols="30" placeholder="Message" name="message"
+ class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500"
+ required&gt;&lt;/textarea&gt;
+ &lt;/div&gt;
+ &lt;input type="submit" value="Submit"
+ class="px-8 py-2 duration-200 bg-gray-800 text-white cursor-pointer transition-colors hover:bg-gray-400"&gt;
+&lt;/form&gt;
+
+&lt;script src="https://www.google.com/recaptcha/api.js?render=6LeAO0YfAAAAAC30dY1oPQcGN3VPQfnvRetThEsd"&gt;&lt;/script&gt;
+&lt;script&gt;
+ grecaptcha.ready(function () {
+ grecaptcha.execute("6LeAO0YfAAAAAC30dY1oPQcGN3VPQfnvRetThEsd", { action: 'homepage' })
+ .then(function (token) {
+ document.getElementById('captchaResponse').value = token;
+ });
+ });
+&lt;/script&gt;</description></item><item><title>FAQ</title><link>https://onwardauditing.pages.dev/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://onwardauditing.pages.dev/faq/</guid><description>&lt;ol&gt;
+&lt;li&gt;How to request a proposal?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Accurate information is first needed to develop a accurate proposal. Send us an email via the &lt;a href="https://onwardauditing.pages.dev/contact/"&gt;Contact Us&lt;/a&gt; link to begin the process.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;ol start="2"&gt;
+&lt;li&gt;How can I obtain a SEMS Certificate?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Foremost, being awarded a SEMS Certificate from the COS exhibits your commitment to making extra efforts to further refine and deeply integrate your SEMS program within operations. A SEMS Certificate is awarded through the verification of corrective action plan implementation and closeout by the ASP performing your SEMS audit. To best develop an Audit Plan and secure appropriate resources, the decision to seek a SEMS Certificate should be disclosed within the initial proposal. See our SEMS Certificate (see &lt;a href="https://www.centerforoffshoresafety.org/-/media/COS/COSReboot/2020-140_COS_2_05_1stedition.pdf"&gt;COS-2-05&lt;/a&gt;),&lt;/p&gt;</description></item><item><title>Policies &amp; Processes</title><link>https://onwardauditing.pages.dev/policies/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://onwardauditing.pages.dev/policies/</guid><description>&lt;h2 id="policies"&gt;Policies&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://onwardauditing.pages.dev/docs/P03.2-Impartiality%20Policy.Public%20Information-2023.05.01.pdf" target="_blank" rel="noopener noreferrer"&gt;Impartiality Policy-Principles&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://onwardauditing.pages.dev/docs/F-10.7-UseOfMarks.Public%20Information-2023.05.01.pdf" target="_blank" rel="noopener noreferrer"&gt;Use of COS Certificate and Logo&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="processes"&gt;Processes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://onwardauditing.pages.dev/docs/F-09.1-Auditing%20Process.Public%20Information-2023.05.01.pdf" target="_blank" rel="noopener noreferrer"&gt;Auditing Process leading to SEMS Certificate&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://onwardauditing.pages.dev/docs/F07.5-Appeals%20and%20Complaints.Public%20Information-2023.05.01.pdf" target="_blank" rel="noopener noreferrer"&gt;Appeals &amp;amp; Complaints&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="certificate-status"&gt;Certificate Status&lt;/h2&gt;
+&lt;p&gt;Please &lt;a href="mailto:info@onwardauditing.com?subject=Priority:%20Certificate%2FClient%20Info%20Request"&gt;contact us&lt;/a&gt; for information requests related to client certificate status or information related to a specific certified client.&lt;/p&gt;</description></item><item><title>Services</title><link>https://onwardauditing.pages.dev/services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://onwardauditing.pages.dev/services/</guid><description>&lt;div class="grid grid-cols-1 md:grid-cols-2 gap-2"&gt;
+ &lt;div&gt;&lt;img src="https://onwardauditing.pages.dev/img/audit_page_image_2.jpg" /&gt;&lt;/div&gt;
+ &lt;div&gt;
+ &lt;br /&gt;
+ &lt;ul&gt;
+ &lt;li&gt;Audit Service Provider (ASP) accredited by The Center for Offshore Safety to perform SEMS audits&lt;/li&gt;
+ &lt;ul&gt;
+ &lt;li&gt;COS Certificate #COS-0025&lt;/li&gt;
+ &lt;li&gt;SEMS Audit are completed in accordance with&lt;/li&gt;
+ &lt;ul&gt;
+ &lt;li&gt;API Recommended Practice 75&lt;/li&gt;
+ &lt;li&gt;Title 30 of the Code of Federal Regulations Part 250&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/ul&gt;
+ &lt;/ul&gt;
+ &lt;/div&gt;
+ &lt;div&gt;&lt;img src="https://onwardauditing.pages.dev/img/Audit_page_image_1.jpg" /&gt;&lt;/div&gt;
+ &lt;div&gt;
+ &lt;br /&gt;
+ &lt;ul&gt;
+ &lt;li&gt;Internal Audits&lt;/li&gt;
+ &lt;ul&gt;
+ &lt;li&gt;Subpart O Well Control / Training System Audits&lt;/li&gt;
+ &lt;li&gt;Internal / Contractor Gap Analysis&lt;/li&gt;
+ &lt;li&gt;Process Safety Management Audits&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/ul&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>Who is Onward Auditing</title><link>https://onwardauditing.pages.dev/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://onwardauditing.pages.dev/about/</guid><description>&lt;p&gt;We have a team of certified and competent auditors who understand your business and whose goal is to add value and increase safety awareness.&lt;/p&gt;
+&lt;p&gt;Compliance is crucial to success. However, audits which provide you with findings that assist you in your goals and support your journey of true continual improvement is where we at Onward Auditing add the most value.&lt;/p&gt;
+&lt;p&gt;Contact us to learn how an audit can lead you to improving your safety and environmental management system.&lt;/p&gt;</description></item></channel></rss>
