@@ -1,4 +1,7 @@
-name: github pages
+name: deploy
+
+permissions:
+  contents: write
 
 on:
   push:
@@ -13,6 +16,7 @@ jobs:
         with:
           submodules: true
           fetch-depth: 0
+          persist-credentials: false
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
