@@ -32,9 +32,18 @@ jobs:
       - run: npm ci
       - run: hugo --minify
 
-      - name: build gh-pages branch
-        uses: peaceiris/actions-gh-pages@v4 # v4 # (latest, tagged)
-        if: github.ref == 'refs/heads/main'
+      - name: update production branch
+        uses: actions/github-script@v8
+        env:
+          SHA: ${{ github.sha }}
+          AUTHOR: ${{ github.actor }}
+          EMAIL: ${{ github.actor }}@users.noreply.github.com
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          script: |
+            git checkout target-branch
+            git checkout source-branch -- public
+            mv public/* .
+            rm -rf public
+            git add .
+            git commit --author="${AUTHOR} <${EMAIL}>" -m "Deploy: ${SHA}"
+            git push origin production
